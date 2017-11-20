@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="ArcadeFunk_data" version="1.3.0" audacityversion="2.1.2" sel0="0.0000000000" sel1="91.4821768707" vpos="0" h="0.0000000000" zoom="9.2010333585" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="GENRE" value="Other"/>
+		<tag name="ALBUM" value="Royalty Free Music"/>
+		<tag name="YEAR" value="2012"/>
+		<tag name="TITLE" value="Arcade Funk"/>
+		<tag name="ARTIST" value="DL Sounds"/>
+		<tag name="COMMENTS" value="(C) dl-sounds.com"/>
+	</tags>
+	<wavetrack name="Arcade Funk" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2017828">
+				<waveblock start="0">
+					<simpleblockfile filename="e000040d.au" len="262144" min="-0.790936" max="0.909994" rms="0.132651"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000168.au" len="262144" min="-0.939864" max="1.043779" rms="0.17408"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e000049e.au" len="262144" min="-0.947634" max="1.074457" rms="0.186573"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e00007d3.au" len="262144" min="-0.981854" max="1.156058" rms="0.182815"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0000c82.au" len="162540" min="-0.938912" max="1.084868" rms="0.183796"/>
+				</waveblock>
+				<waveblock start="1211116">
+					<simpleblockfile filename="e0000725.au" len="220386" min="-0.861668" max="1.144555" rms="0.148035"/>
+				</waveblock>
+				<waveblock start="1431502">
+					<simpleblockfile filename="e0000944.au" len="262144" min="-0.87509" max="1.110756" rms="0.17536"/>
+				</waveblock>
+				<waveblock start="1693646">
+					<simpleblockfile filename="e0000a52.au" len="162091" min="-0.955601" max="1.152554" rms="0.167094"/>
+				</waveblock>
+				<waveblock start="1855737">
+					<simpleblockfile filename="e000070a.au" len="162091" min="-1.014507" max="0.948463" rms="0.174314"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="45.75573696">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2016536">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000aab.au" len="260852" min="-0.790936" max="0.909994" rms="0.132657"/>
+				</waveblock>
+				<waveblock start="260852">
+					<simpleblockfile filename="e0000168.au" len="262144" min="-0.939864" max="1.043779" rms="0.17408"/>
+				</waveblock>
+				<waveblock start="522996">
+					<simpleblockfile filename="e000049e.au" len="262144" min="-0.947634" max="1.074457" rms="0.186573"/>
+				</waveblock>
+				<waveblock start="785140">
+					<simpleblockfile filename="e00007d3.au" len="262144" min="-0.981854" max="1.156058" rms="0.182815"/>
+				</waveblock>
+				<waveblock start="1047284">
+					<simpleblockfile filename="e0000c82.au" len="162540" min="-0.938912" max="1.084868" rms="0.183796"/>
+				</waveblock>
+				<waveblock start="1209824">
+					<simpleblockfile filename="e0000725.au" len="220386" min="-0.861668" max="1.144555" rms="0.148035"/>
+				</waveblock>
+				<waveblock start="1430210">
+					<simpleblockfile filename="e0000944.au" len="262144" min="-0.87509" max="1.110756" rms="0.17536"/>
+				</waveblock>
+				<waveblock start="1692354">
+					<simpleblockfile filename="e0000a52.au" len="162091" min="-0.955601" max="1.152554" rms="0.167094"/>
+				</waveblock>
+				<waveblock start="1854445">
+					<simpleblockfile filename="e000070a.au" len="162091" min="-1.014507" max="0.948463" rms="0.174314"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

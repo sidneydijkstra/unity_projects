@@ -1,0 +1,15 @@
+style: pixel art, 2d sideway scrolling.
+onderwerp: platform fight game.
+charackters: 4/5 identieke charackters.
+speel manier: controller.
+
+art: wereld(1), charackters(2, aniematies), start scherm(1), score scherm(1), leter type(1).
+code: 2dlopen(1, springen), schieten(1), menu scherm(1), score scherm(1), player health(1).
+
+Sidney: sdlopen, schieten.
+Mike: menu scherm, score scherm, player health.
+Chris: wereld, start scherm, score scherm.
+Daan: charackter(2).
+Algemeen: leter type.
+
+Engine: Unity.

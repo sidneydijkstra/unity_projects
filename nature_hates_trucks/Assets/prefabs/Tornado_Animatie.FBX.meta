@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: be341adce5b6d83449ebc3cfc4b7bfe6
+timeCreated: 1493638082
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Tornado_main
+    100004: Tornado_rand2
+    100006: Tornado_rand3
+    100008: Tornado_rand4
+    100010: Tornado_stof1
+    100012: Tornado_stof2
+    100014: Tornado_stof3
+    100016: Tornado_stof4
+    100018: Tornado_stof5
+    100020: Tornado_stof6
+    100022: Tornado_stof7
+    100024: Tornado_stof8
+    100026: Tornado_stof9
+    100028: Tornadodeel005
+    100030: Tornadodeel1
+    400000: //RootNode
+    400002: Tornado_main
+    400004: Tornado_rand2
+    400006: Tornado_rand3
+    400008: Tornado_rand4
+    400010: Tornado_stof1
+    400012: Tornado_stof2
+    400014: Tornado_stof3
+    400016: Tornado_stof4
+    400018: Tornado_stof5
+    400020: Tornado_stof6
+    400022: Tornado_stof7
+    400024: Tornado_stof8
+    400026: Tornado_stof9
+    400028: Tornadodeel005
+    400030: Tornadodeel1
+    2300000: Tornado_main
+    2300002: Tornado_rand2
+    2300004: Tornado_rand3
+    2300006: Tornado_rand4
+    2300008: Tornado_stof1
+    2300010: Tornado_stof2
+    2300012: Tornado_stof3
+    2300014: Tornado_stof4
+    2300016: Tornado_stof5
+    2300018: Tornado_stof6
+    2300020: Tornado_stof7
+    2300022: Tornado_stof8
+    2300024: Tornado_stof9
+    2300026: Tornadodeel005
+    2300028: Tornadodeel1
+    3300000: Tornado_main
+    3300002: Tornado_rand2
+    3300004: Tornado_rand3
+    3300006: Tornado_rand4
+    3300008: Tornado_stof1
+    3300010: Tornado_stof2
+    3300012: Tornado_stof3
+    3300014: Tornado_stof4
+    3300016: Tornado_stof5
+    3300018: Tornado_stof6
+    3300020: Tornado_stof7
+    3300022: Tornado_stof8
+    3300024: Tornado_stof9
+    3300026: Tornadodeel005
+    3300028: Tornadodeel1
+    4300000: Tornadodeel1
+    4300002: Tornado_rand3
+    4300004: Tornado_rand4
+    4300006: Tornado_rand2
+    4300008: Tornado_stof5
+    4300010: Tornado_stof3
+    4300012: Tornadodeel005
+    4300014: Tornado_stof7
+    4300016: Tornado_stof4
+    4300018: Tornado_stof6
+    4300020: Tornado_main
+    4300022: Tornado_stof9
+    4300024: Tornado_stof2
+    4300026: Tornado_stof8
+    4300028: Tornado_stof1
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tornado_main
+        weight: 1
+      - path: Tornado_rand2
+        weight: 1
+      - path: Tornado_rand3
+        weight: 1
+      - path: Tornado_rand4
+        weight: 1
+      - path: Tornado_stof1
+        weight: 1
+      - path: Tornado_stof2
+        weight: 1
+      - path: Tornado_stof3
+        weight: 1
+      - path: Tornado_stof4
+        weight: 1
+      - path: Tornado_stof5
+        weight: 1
+      - path: Tornado_stof6
+        weight: 1
+      - path: Tornado_stof7
+        weight: 1
+      - path: Tornado_stof8
+        weight: 1
+      - path: Tornado_stof9
+        weight: 1
+      - path: Tornadodeel1
+        weight: 1
+      - path: Tornadodeel005
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

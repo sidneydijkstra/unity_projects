@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 8b2b917a7fa440040bf9afaa8adeb075
+timeCreated: 1491823228
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Achterkap_deur
+    100002: Achterklep_Hendel
+    100004: Doos005
+    100006: Doos006
+    100008: Doos007
+    100010: Doos008
+    100012: Doos009
+    100014: Doos010
+    100016: Doos011
+    100018: Doos012
+    100020: Doos013
+    100022: Doos2
+    100024: //RootNode
+    100026: Truck_model
+    100028: Wiel_achter
+    100030: Wiel_midden
+    100032: Wiel_voor
+    400000: Achterkap_deur
+    400002: Achterklep_Hendel
+    400004: Doos005
+    400006: Doos006
+    400008: Doos007
+    400010: Doos008
+    400012: Doos009
+    400014: Doos010
+    400016: Doos011
+    400018: Doos012
+    400020: Doos013
+    400022: Doos2
+    400024: //RootNode
+    400026: Truck_model
+    400028: Wiel_achter
+    400030: Wiel_midden
+    400032: Wiel_voor
+    2300000: Achterkap_deur
+    2300002: Achterklep_Hendel
+    2300004: Doos005
+    2300006: Doos006
+    2300008: Doos007
+    2300010: Doos008
+    2300012: Doos009
+    2300014: Doos010
+    2300016: Doos011
+    2300018: Doos012
+    2300020: Doos013
+    2300022: Doos2
+    2300024: Truck_model
+    2300026: Wiel_achter
+    2300028: Wiel_midden
+    2300030: Wiel_voor
+    3300000: Achterkap_deur
+    3300002: Achterklep_Hendel
+    3300004: Doos005
+    3300006: Doos006
+    3300008: Doos007
+    3300010: Doos008
+    3300012: Doos009
+    3300014: Doos010
+    3300016: Doos011
+    3300018: Doos012
+    3300020: Doos013
+    3300022: Doos2
+    3300024: Truck_model
+    3300026: Wiel_achter
+    3300028: Wiel_midden
+    3300030: Wiel_voor
+    4300000: Wiel_voor
+    4300002: Truck_model
+    4300004: Wiel_achter
+    4300006: Wiel_midden
+    4300008: Doos2
+    4300010: Doos005
+    4300012: Doos006
+    4300014: Doos007
+    4300016: Doos008
+    4300018: Doos009
+    4300020: Doos010
+    4300022: Doos011
+    4300024: Doos012
+    4300026: Doos013
+    4300028: Achterkap_deur
+    4300030: Achterklep_Hendel
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

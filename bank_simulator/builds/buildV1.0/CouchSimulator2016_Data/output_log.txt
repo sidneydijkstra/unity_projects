@@ -1,0 +1,1439 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x191b)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Files\Users\sidney\Desktop\unity\BankSimulator\builds\buildV1.0\CouchSimulator2016_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Files\Users\sidney\Desktop\unity\BankSimulator\builds\buildV1.0\CouchSimulator2016_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Files\Users\sidney\Desktop\unity\BankSimulator\builds\buildV1.0\CouchSimulator2016_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Files\Users\sidney\Desktop\unity\BankSimulator\builds\buildV1.0\CouchSimulator2016_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Files\Users\sidney\Desktop\unity\BankSimulator\builds\buildV1.0\CouchSimulator2016_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Files\Users\sidney\Desktop\unity\BankSimulator\builds\buildV1.0\CouchSimulator2016_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Files\Users\sidney\Desktop\unity\BankSimulator\builds\buildV1.0\CouchSimulator2016_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Files\Users\sidney\Desktop\unity\BankSimulator\builds\buildV1.0\CouchSimulator2016_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Files\Users\sidney\Desktop\unity\BankSimulator\builds\buildV1.0\CouchSimulator2016_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Files\Users\sidney\Desktop\unity\BankSimulator\builds\buildV1.0\CouchSimulator2016_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.055 seconds
+Platform assembly: D:\Files\Users\sidney\Desktop\unity\BankSimulator\builds\buildV1.0\CouchSimulator2016_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Files\Users\sidney\Desktop\unity\BankSimulator\builds\buildV1.0\CouchSimulator2016_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 24.194756 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4c6c -> priority: 1 
+  Thread -> id: 56f4 -> priority: 1 
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at SightController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SightController.RayDetect (System.String tag) [0x00000] in <filename unknown>:0 
+  at HUDScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
